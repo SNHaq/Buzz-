@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "real-buzz_93",
+    "slug": "snack-1cf29e71-a760-4c36-9dab-a678a793227c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.snhaq.snack1cf29e71a7604c369daba678a793227c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
